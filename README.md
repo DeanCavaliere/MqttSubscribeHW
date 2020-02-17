@@ -34,6 +34,8 @@ In another OS:
   You can edit the code in any word editor (notepad/ word for example) and simply update the users credentials.
   Then copy and paste the code into the linux file as mentioend above.
 
+# Running The Program
 The subscription code can be ran with the following code: 
+
   sudo python3 mqttsetup.py 
   
