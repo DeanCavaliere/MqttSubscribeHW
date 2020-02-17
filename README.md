@@ -1,5 +1,5 @@
 # MQTT Homework 
-The homework for setting up mqtt subscription. 
+The homework for setting up a MQTT subscription on a linux machine.
 
 
 # Install:
@@ -8,6 +8,7 @@ To copy the file into a linux OS:
   1) Generate a new file in linux --> nano "filename".py
   2) Copy and paste the code from github into this new file
   3) ctrl+O --> enter to save the file
+  4) ctrl+X --> exits the editor
   
 To download the file straight from github: 
   1) Install git
@@ -28,6 +29,7 @@ In the linux OS:
   2) Edit the URL, port number, and other information for your MQTT server
   3) ctrl+O to save
   4) ctrl+X to exit 
+
 In another OS: 
   You can edit the code in any word editor (notepad/ word for example) and simply update the users credentials.
   Then copy and paste the code into the linux file as mentioend above.
