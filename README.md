@@ -1,26 +1,22 @@
 # MqttSubscribeHW
 The homework for setting up mqtt subscription. 
 
-Most of the files/folders in this repo is unnecessary. You only need to look at mqttsetup.py
 
-*** Please observe the file mqttsetup.py ***
-
+# Install:
 [Recommended]
 To copy the file into a linux OS:
   1) Generate a new file in linux --> nano "filename".py
   2) Copy and paste the code from github into this new file
   3) ctrl+O --> enter to save the file
   
-[Not Recommended]
 To download the file straight from github: 
   1) Install git
   2) Navigate to the github repo 
   3) Click on the green clone and download button
   4) Copy the github link that appears
   5) In the linux OS, type --> git clone "The github url"
-  6) Everything should be downloading :) (Although a lot of unnecessary files will be downloaded)
 
-
+# Dependencies:
 In order for this to work, the user will need to have python3 and the corresponding pip command installed.
 Similarly, the user will need to install a dependency. 
 To do this, please use the following code: 
