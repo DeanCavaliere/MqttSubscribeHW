@@ -32,7 +32,6 @@ In the linux OS:
   4) ctrl+X to exit 
 
 In another OS:
-
   You can edit the code in any word editor (notepad/ word for example) and simply update the users credentials.
   Then copy and paste the code into the linux file as mentioend above.
 
