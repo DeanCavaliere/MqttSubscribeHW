@@ -11,12 +11,12 @@ from time import sleep
 #Set a dummy constant for looping
 rc = 0
 
-#User Defined MQTT Value.
-url='tailor.cloudmqtt.com'
-portnumber = 10608
-username = 'gujunebq'
-password = '7jKRFQxKHQcO'
-topic = 'laptop'
+#User Defined MQTT Value. PLEASE CHANGE THIS TO YOUR SERVER.
+url='URL'
+portnumber = 0
+username = 'Username'
+password = 'Password'
+topic = 'Topic'
 
 #Enter a forever loop
 while rc == 0:
