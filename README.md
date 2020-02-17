@@ -1,5 +1,7 @@
 # MQTT Homework 
 The homework for setting up a MQTT subscription on a linux machine.
+A lot of the information for this homework was found using the following webpage: 
+https://pypi.org/project/paho-mqtt/#id4
 
 
 # Install:
