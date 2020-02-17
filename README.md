@@ -1,4 +1,4 @@
-# MqttSubscribeHW
+# MQTT Homework 
 The homework for setting up mqtt subscription. 
 
 
