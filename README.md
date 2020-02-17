@@ -21,7 +21,7 @@ To download the file straight from github:
 In order for this to work, the user will need to have python3 and the corresponding pip command installed.
 Similarly, the user will need to install a dependency. 
 To do this, please use the following code: 
-  pip3 install paho-mqtt
+    pip3 install paho-mqtt
   
 **** The code will then need to be modified to run! ****
 In the linux OS: 
@@ -37,5 +37,5 @@ In another OS:
 # Running The Program
 The subscription code can be ran with the following code: 
 
-  sudo python3 mqttsetup.py 
+   sudo python3 mqttsetup.py 
   
